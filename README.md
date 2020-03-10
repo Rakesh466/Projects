@@ -20,7 +20,7 @@
 * JUnit - version 4.11
 * H2- version 1.4.196
 * Maven - version 3.6.1
-* Tomcat -Version 7
+* Tomcat -Version 8
 
 ## Setup
 1. Copy the shared war file and deploye on tomact server in under webapps folder
@@ -29,6 +29,7 @@
 
 ## Features
 List of features ready and TODOs for future development
+* Spring MVC
 * Spring security
 * Integration with hibernate
 * Unit testing
