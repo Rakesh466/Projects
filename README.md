@@ -13,19 +13,19 @@
 	The project is simple employee CURD operations like create, modify ,delete and delete using in memory database[H2].
 
 ## Technologies
-* Java - version 1.8
+* Java - version 1.7
 * Spring - version 4.2.5.RELEASE
 * Spring Security - version 4.2.5.RELEASE
 * Hibernate - version 4.3.8.Final
 * JUnit - version 4.11
 * H2- version 1.4.196
 * Maven - version 3.6.1
-* Tomcat -Version 8
+* Tomcat -Version 7
 
 ## Setup
 1. Copy the shared war file and deploye on tomact server in under webapps folder
 2. Import the source in eclise as existing maven project.
-3. URL: http://<<localhost>>:<<Port>>/FinalAssignment/login
+3. URL: http://<localhost>:<Port>/FinalAssignment/login
 
 ## Features
 List of features ready and TODOs for future development
