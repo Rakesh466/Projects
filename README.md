@@ -25,7 +25,7 @@
 ## Setup
 1. Copy the shared war file and deploye on tomact server in under webapps folder
 2. Import the source in eclise as existing maven project.
-3. URL: http://<localhost>:<Port>/FinalAssignment/login
+3. URL: http://localhost:Port/FinalAssignment/login
 
 ## Features
 List of features ready and TODOs for future development
